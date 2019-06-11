@@ -2,7 +2,7 @@
   "name": "policyline",
   "version": "2.1.1",
   "description": "Attributes Based Access Control library for Node.JS",
-  "main": "src/index.js",
+  "main": "dist/policyline.js",
   "scripts": {
     "build": "webpack --mode=production",
     "dev": "webpack --mode=development",
